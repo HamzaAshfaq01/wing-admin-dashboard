@@ -1,0 +1,45 @@
+/*
+ * !Wing-Admin-Dashboard v0.1.0 (https://github.com/tayyab-khalid/wing-react-dashboard-1.git)
+ * Licensed under MIT (https://github.com/tayyab-khalid/wing-react-dashboard-1/blob/master/LICENSE)
+ * Contact (https://workcorp.herokuapp.com/contact.php)
+ */
+
+@import 'chunks/variables';
+@import 'chunks/mixins';
+
+// Plugins CSS
+@import "chunks/plugins/plugin-animate-bootstrap-notify";
+@import "chunks/plugins/plugin-perfect-scrollbar";
+
+// Core CSS
+@import "chunks/buttons";
+@import "chunks/inputs";
+@import "chunks/typography";
+@import "chunks/misc";
+@import "chunks/checkboxes-radio";
+
+
+// components
+@import "chunks/navbar";
+@import "chunks/page-header";
+@import "chunks/dropdown";
+@import "chunks/alerts";
+@import "chunks/images";
+@import "chunks/nucleo-outline";
+@import "chunks/tables";
+@import "chunks/sidebar-and-main-panel";
+@import "chunks/footers";
+@import "chunks/fixed-plugin";
+
+// cards
+@import "chunks/cards";
+@import "chunks/cards/card-plain";
+@import "chunks/cards/card-chart";
+@import "chunks/cards/card-user";
+@import "chunks/cards/card-map";
+@import "chunks/cards/card-stats";
+
+@import "chunks/responsive";
+
+// html to react differences
+@import "chunks/react/react-differences.scss";

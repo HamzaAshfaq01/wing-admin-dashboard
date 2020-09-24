@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wing-admin-dashboard/static/css/main.931cb266.chunk.css",
-    "main.js": "/wing-admin-dashboard/static/js/main.bcbb01b7.chunk.js",
-    "main.js.map": "/wing-admin-dashboard/static/js/main.bcbb01b7.chunk.js.map",
+    "main.js": "/wing-admin-dashboard/static/js/main.69474dea.chunk.js",
+    "main.js.map": "/wing-admin-dashboard/static/js/main.69474dea.chunk.js.map",
     "runtime-main.js": "/wing-admin-dashboard/static/js/runtime-main.2c2415d0.js",
     "runtime-main.js.map": "/wing-admin-dashboard/static/js/runtime-main.2c2415d0.js.map",
     "static/css/2.23423af4.chunk.css": "/wing-admin-dashboard/static/css/2.23423af4.chunk.css",
     "static/js/2.371c7bbb.chunk.js": "/wing-admin-dashboard/static/js/2.371c7bbb.chunk.js",
     "static/js/2.371c7bbb.chunk.js.map": "/wing-admin-dashboard/static/js/2.371c7bbb.chunk.js.map",
     "index.html": "/wing-admin-dashboard/index.html",
-    "precache-manifest.2f511c94a6603d85b5376028b7f53588.js": "/wing-admin-dashboard/precache-manifest.2f511c94a6603d85b5376028b7f53588.js",
+    "precache-manifest.36f6b5ef832499d41d358213a98eac48.js": "/wing-admin-dashboard/precache-manifest.36f6b5ef832499d41d358213a98eac48.js",
     "service-worker.js": "/wing-admin-dashboard/service-worker.js",
     "static/css/2.23423af4.chunk.css.map": "/wing-admin-dashboard/static/css/2.23423af4.chunk.css.map",
     "static/css/main.931cb266.chunk.css.map": "/wing-admin-dashboard/static/css/main.931cb266.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.23423af4.chunk.css",
     "static/js/2.371c7bbb.chunk.js",
     "static/css/main.931cb266.chunk.css",
-    "static/js/main.bcbb01b7.chunk.js"
+    "static/js/main.69474dea.chunk.js"
   ]
 }

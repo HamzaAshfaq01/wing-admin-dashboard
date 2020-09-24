@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1f664d41070516d7757f4f60c121b0d",
+    "revision": "8f068a121d96a6bd3737bbfa76f34233",
     "url": "/wing-admin-dashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wing-admin-dashboard/static/css/2.23423af4.chunk.css"
   },
   {
-    "revision": "8a2535242c53be107a2d",
+    "revision": "7475233bb3569599a8f2",
     "url": "/wing-admin-dashboard/static/css/main.931cb266.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wing-admin-dashboard/static/js/2.371c7bbb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a2535242c53be107a2d",
-    "url": "/wing-admin-dashboard/static/js/main.bcbb01b7.chunk.js"
+    "revision": "7475233bb3569599a8f2",
+    "url": "/wing-admin-dashboard/static/js/main.69474dea.chunk.js"
   },
   {
     "revision": "7d273666c1ffa827e6b7",

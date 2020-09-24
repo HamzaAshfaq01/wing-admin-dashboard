@@ -78,8 +78,8 @@ Quick start options:
 
 - [Download from Github](https://github.com/tayyab-khalid/wing-admin-dashboard/archive/master.zip).
 - Extract file.
-- `npm i`
-- `npm start`
+- Run `npm i`
+- Then `npm start`
 
 ## Contributing
 

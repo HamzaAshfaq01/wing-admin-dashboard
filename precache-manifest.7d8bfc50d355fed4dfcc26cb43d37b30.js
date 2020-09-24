@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b17dde50f895796e1c6786a16ca3f9d7",
+    "revision": "2c1e563e1133ba01c8934c471da2dfe8",
     "url": "/wing-admin-dashboard/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wing-admin-dashboard/static/css/2.23423af4.chunk.css"
   },
   {
-    "revision": "0253fd7708163c189cc7",
-    "url": "/wing-admin-dashboard/static/css/main.d602ed16.chunk.css"
+    "revision": "d5887dc9378c77051e39",
+    "url": "/wing-admin-dashboard/static/css/main.931cb266.chunk.css"
   },
   {
     "revision": "4467272259c0edaa6c97",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wing-admin-dashboard/static/js/2.371c7bbb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0253fd7708163c189cc7",
-    "url": "/wing-admin-dashboard/static/js/main.a09f7645.chunk.js"
+    "revision": "d5887dc9378c77051e39",
+    "url": "/wing-admin-dashboard/static/js/main.2d80624f.chunk.js"
   },
   {
     "revision": "7d273666c1ffa827e6b7",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wing-admin-dashboard/static/media/joe-gardner-2.76ff47ae.jpg"
   },
   {
-    "revision": "06dff5bf9a47c9fd79bea1b4f835b521",
-    "url": "/wing-admin-dashboard/static/media/logo.06dff5bf.svg"
+    "revision": "23e1cce9c88785099d0f039c2213a572",
+    "url": "/wing-admin-dashboard/static/media/logo.23e1cce9.svg"
   },
   {
     "revision": "aab414f7b69d0d4ad897e75e735f240a",

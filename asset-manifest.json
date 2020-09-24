@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/wing-admin-dashboard/static/css/main.d602ed16.chunk.css",
-    "main.js": "/wing-admin-dashboard/static/js/main.a09f7645.chunk.js",
-    "main.js.map": "/wing-admin-dashboard/static/js/main.a09f7645.chunk.js.map",
+    "main.css": "/wing-admin-dashboard/static/css/main.931cb266.chunk.css",
+    "main.js": "/wing-admin-dashboard/static/js/main.2d80624f.chunk.js",
+    "main.js.map": "/wing-admin-dashboard/static/js/main.2d80624f.chunk.js.map",
     "runtime-main.js": "/wing-admin-dashboard/static/js/runtime-main.2c2415d0.js",
     "runtime-main.js.map": "/wing-admin-dashboard/static/js/runtime-main.2c2415d0.js.map",
     "static/css/2.23423af4.chunk.css": "/wing-admin-dashboard/static/css/2.23423af4.chunk.css",
     "static/js/2.371c7bbb.chunk.js": "/wing-admin-dashboard/static/js/2.371c7bbb.chunk.js",
     "static/js/2.371c7bbb.chunk.js.map": "/wing-admin-dashboard/static/js/2.371c7bbb.chunk.js.map",
     "index.html": "/wing-admin-dashboard/index.html",
-    "precache-manifest.cee07bdb269ac8cf80a3b624b62b5567.js": "/wing-admin-dashboard/precache-manifest.cee07bdb269ac8cf80a3b624b62b5567.js",
+    "precache-manifest.7d8bfc50d355fed4dfcc26cb43d37b30.js": "/wing-admin-dashboard/precache-manifest.7d8bfc50d355fed4dfcc26cb43d37b30.js",
     "service-worker.js": "/wing-admin-dashboard/service-worker.js",
     "static/css/2.23423af4.chunk.css.map": "/wing-admin-dashboard/static/css/2.23423af4.chunk.css.map",
-    "static/css/main.d602ed16.chunk.css.map": "/wing-admin-dashboard/static/css/main.d602ed16.chunk.css.map",
+    "static/css/main.931cb266.chunk.css.map": "/wing-admin-dashboard/static/css/main.931cb266.chunk.css.map",
     "static/js/2.371c7bbb.chunk.js.LICENSE.txt": "/wing-admin-dashboard/static/js/2.371c7bbb.chunk.js.LICENSE.txt",
     "static/media/ayo-ogunseinde-2.jpg": "/wing-admin-dashboard/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/wing-admin-dashboard/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
     "static/media/damir-bosnjak.jpg": "/wing-admin-dashboard/static/media/damir-bosnjak.a6f24e7d.jpg",
     "static/media/joe-gardner-2.jpg": "/wing-admin-dashboard/static/media/joe-gardner-2.76ff47ae.jpg",
-    "static/media/logo.svg": "/wing-admin-dashboard/static/media/logo.06dff5bf.svg",
+    "static/media/logo.svg": "/wing-admin-dashboard/static/media/logo.23e1cce9.svg",
     "static/media/mike.jpg": "/wing-admin-dashboard/static/media/mike.aab414f7.jpg",
     "static/media/main.scss": "/wing-admin-dashboard/static/media/nucleo-icons.f32ed5ad.eot"
   },
@@ -26,7 +26,7 @@
     "static/js/runtime-main.2c2415d0.js",
     "static/css/2.23423af4.chunk.css",
     "static/js/2.371c7bbb.chunk.js",
-    "static/css/main.d602ed16.chunk.css",
-    "static/js/main.a09f7645.chunk.js"
+    "static/css/main.931cb266.chunk.css",
+    "static/js/main.2d80624f.chunk.js"
   ]
 }

@@ -1,4 +1,4 @@
-# [Wing Admin Dashboard](https://tayyab-khalid.github.io/wing-admin-dashboard/) [![version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://tayyab-khalid.github.io/admin/dashboard) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tayyab-khalid/wing-admin-dashboard/blob/master/LICENSE)
+# [Wing Admin Dashboard](https://tayyab-khalid.github.io/wing-admin-dashboard/) [![version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://tayyab-khalid.github.io/admin/dashboard/) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tayyab-khalid/wing-admin-dashboard/blob/master/LICENSE)
 
 ![preview](https://github.com/tayyab-khalid/wing-admin-dashboard/blob/master/src/assets/img/readme/bg.jpg?raw=true)
 

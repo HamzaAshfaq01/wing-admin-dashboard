@@ -1,5 +1,5 @@
 /*
- * !Wing-Admin-Dashboard v0.1.0 (https://github.com/tayyab-khalid/wing-react-dashboard-1.git)
+ * !Wing-Admin-Dashboard v0.1.0 (https://github.com/tayyab-khalid/wing-react-dashboard.git)
  * Licensed under MIT (https://github.com/tayyab-khalid/wing-react-dashboard-1/blob/master/LICENSE)
  * Contact (https://workcorp.herokuapp.com/contact.php)
  */
@@ -15,61 +15,61 @@ import UpgradeToPro from "views/Upgrade.js";
 
 var routes = [
   {
-    path: "/wing-admin-dashboard/dashboard",
+    path: "/dashboard",
     name: "Dashboard",
     icon: "nc-icon nc-bank",
     component: Dashboard,
-    layout: "/admin",
+    layout: "/wing-admin-dashboard/admin",
   },
   {
-    path: "/wing-admin-dashboard/icons",
+    path: "/icons",
     name: "Icons",
     icon: "nc-icon nc-diamond",
     component: Icons,
-    layout: "/admin",
+    layout: "/wing-admin-dashboard/admin",
   },
   {
-    path: "/wing-admin-dashboard/maps",
+    path: "/maps",
     name: "Maps",
     icon: "nc-icon nc-pin-3",
     component: Maps,
-    layout: "/admin",
+    layout: "/wing-admin-dashboard/admin",
   },
   {
-    path: "/wing-admin-dashboard/notifications",
+    path: "/notifications",
     name: "Notifications",
     icon: "nc-icon nc-bell-55",
     component: Notifications,
-    layout: "/admin",
+    layout: "/wing-admin-dashboard/admin",
   },
   {
-    path: "/wing-admin-dashboard/user-page",
+    path: "/user-page",
     name: "User Profile",
     icon: "nc-icon nc-single-02",
     component: UserPage,
-    layout: "/admin",
+    layout: "/wing-admin-dashboard/admin",
   },
   {
-    path: "/wing-admin-dashboard/tables",
+    path: "/tables",
     name: "Table List",
     icon: "nc-icon nc-tile-56",
     component: TableList,
-    layout: "/admin",
+    layout: "/wing-admin-dashboard/admin",
   },
   {
-    path: "/wing-admin-dashboard/typography",
+    path: "/typography",
     name: "Typography",
     icon: "nc-icon nc-caps-small",
     component: Typography,
-    layout: "/admin",
+    layout: "/wing-admin-dashboard/admin",
   },
   {
     pro: true,
-    path: "/wing-admin-dashboard/upgrade",
+    path: "/upgrade",
     name: "Upgrade to PRO",
     icon: "nc-icon nc-spaceship",
     component: UpgradeToPro,
-    layout: "/admin",
+    layout: "/wing-admin-dashboard/admin",
   },
 ];
 export default routes;

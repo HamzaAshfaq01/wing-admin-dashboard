@@ -8,4 +8,4 @@ Like consistency and design that blends into its purpose. It is a perfect exampl
 
 **Bootstrap 4 Support** Built on top of the much awaited Bootstrap 4 and uses the most used react framework that implements the Bootstrap 4 components on react, reactstrap. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 and/or reactstrap project; you can just import the its style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
 
-Example Pages Want to fully display the power of this dashboard, so the kit comes packed with examples showing you how to use the components.
+Want to fully display the power of this dashboard, so the kit comes packed with examples showing you how to use the components.

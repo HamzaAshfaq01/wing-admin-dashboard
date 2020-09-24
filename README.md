@@ -1,3 +1,3 @@
-# [Wing Admin Dashboard](https://tayyab-khalid.github.io/wing-admin-dashboard/) [![verison](https://badge.fury.io/js/survey-monkey-streams.svg)](//npmjs.com/package/survey-monkey-streams)
+# [Wing Admin Dashboard](https://tayyab-khalid.github.io/wing-admin-dashboard/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ![preview](https://github.com/tayyab-khalid/wing-admin-dashboard/blob/master/src/assets/img/readme/bg.jpg?raw=true)

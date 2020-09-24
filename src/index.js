@@ -21,7 +21,7 @@ const hist = createBrowserHistory();
 ReactDOM.render(
   <Router history={hist}>
     <Switch>
-      <Route path="/admin" render={(props) => <AdminLayout {...props} />} />
+      <Route path="/" render={(props) => <AdminLayout {...props} />} />
     </Switch>
   </Router>,
   document.getElementById("root")

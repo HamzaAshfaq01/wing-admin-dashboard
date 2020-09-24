@@ -22,7 +22,7 @@ ReactDOM.render(
   <Router history={hist}>
     <Switch>
       <Route path="/admin" render={(props) => <AdminLayout {...props} />} />
-      <Redirect to="/wing-admin-dashboard/" />
+      <Redirect to="/wing-admin-dashboard/admin" />
     </Switch>
   </Router>,
   document.getElementById("root")

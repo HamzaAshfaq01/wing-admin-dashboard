@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f068a121d96a6bd3737bbfa76f34233",
+    "revision": "8595924c7e37692a63fea3af783ba32d",
     "url": "/wing-admin-dashboard/index.html"
   },
   {
-    "revision": "4467272259c0edaa6c97",
+    "revision": "b7f13b0d9577bbb80407",
     "url": "/wing-admin-dashboard/static/css/2.23423af4.chunk.css"
   },
   {
-    "revision": "7475233bb3569599a8f2",
+    "revision": "f8cdb35f5e80a67be6ab",
     "url": "/wing-admin-dashboard/static/css/main.931cb266.chunk.css"
   },
   {
-    "revision": "4467272259c0edaa6c97",
-    "url": "/wing-admin-dashboard/static/js/2.371c7bbb.chunk.js"
+    "revision": "b7f13b0d9577bbb80407",
+    "url": "/wing-admin-dashboard/static/js/2.0bc60780.chunk.js"
   },
   {
     "revision": "74576634b1ad091cd02d1c3a3bb53d12",
-    "url": "/wing-admin-dashboard/static/js/2.371c7bbb.chunk.js.LICENSE.txt"
+    "url": "/wing-admin-dashboard/static/js/2.0bc60780.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7475233bb3569599a8f2",
-    "url": "/wing-admin-dashboard/static/js/main.69474dea.chunk.js"
+    "revision": "f8cdb35f5e80a67be6ab",
+    "url": "/wing-admin-dashboard/static/js/main.f2665a98.chunk.js"
   },
   {
     "revision": "7d273666c1ffa827e6b7",

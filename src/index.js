@@ -1,5 +1,5 @@
 /*
- * !Wing-Admin-Dashboard v0.1.0 (https://github.com/tayyab-khalid/wing-react-dashboard-1.git)
+ * !Wing-Admin-Dashboard v0.1.0 (https://github.com/tayyab-khalid/wing-react-dashboard.git)
  * Licensed under MIT (https://github.com/tayyab-khalid/wing-react-dashboard-1/blob/master/LICENSE)
  * Contact (https://workcorp.herokuapp.com/contact.php)
  */

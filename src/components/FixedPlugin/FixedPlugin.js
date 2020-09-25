@@ -129,6 +129,22 @@ class FixedPlugin extends Component {
                 View Source
               </Button>
             </li>
+            <li className="header-title">GITHUB PAGES WARNING</li>
+            <li className="text-center w-100 small">
+              Do not reload the page with current URL as Github Pages does'nt
+              support HTML5 History API used in this app.
+              Kindly click following button:
+            </li>
+            <li className="button-container">
+              <Button
+                href="https://tayyab-khalid.github.io/wing-admin-dashboard/"
+                color="danger"
+                block
+                className="btn-round"
+              >
+                Reload
+              </Button>
+            </li>
           </ul>
         </div>
       </div>

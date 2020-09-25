@@ -53,35 +53,37 @@ class Dashboard extends React.Component {
   };
   render() {
     return (
-      <div className="wrapper">
-        <Sidebar
-          {...this.props}
-          routes={routes}
-          bgColor={this.state.backgroundColor}
-          activeColor={this.state.activeColor}
-        />
-        <div className="main-panel" ref={this.mainPanel}>
-          <DemoNavbar {...this.props} />
-          <Switch>
-            {routes.map((prop, key) => {
-              return (
-                <Route
-                  path={prop.layout + prop.path}
-                  component={prop.component}
-                  key={key}
-                />
-              );
-            })}
-          </Switch>
-          <Footer fluid />
+      <>
+        <div className="wrapper">
+          <Sidebar
+            {...this.props}
+            routes={routes}
+            bgColor={this.state.backgroundColor}
+            activeColor={this.state.activeColor}
+          />
+          <div className="main-panel" ref={this.mainPanel}>
+            <DemoNavbar {...this.props} />
+            <Switch>
+              {routes.map((prop, key) => {
+                return (
+                  <Route
+                    path={prop.layout + prop.path}
+                    component={prop.component}
+                    key={key}
+                  />
+                );
+              })}
+            </Switch>
+            <Footer fluid />
+          </div>
+          <FixedPlugin
+            bgColor={this.state.backgroundColor}
+            activeColor={this.state.activeColor}
+            handleActiveClick={this.handleActiveClick}
+            handleBgClick={this.handleBgClick}
+          />
         </div>
-        <FixedPlugin
-          bgColor={this.state.backgroundColor}
-          activeColor={this.state.activeColor}
-          handleActiveClick={this.handleActiveClick}
-          handleBgClick={this.handleBgClick}
-        />
-      </div>
+      </>
     );
   }
 }

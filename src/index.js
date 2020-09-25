@@ -10,7 +10,7 @@ import { createBrowserHistory } from "history";
 import { Router, Route, Switch, Redirect } from "react-router-dom";
 
 import "bootstrap/dist/css/bootstrap.css";
-import "assets/scss/main.scss";
+import "assets/scss/main.scss?v=1.2.0";
 import "assets/demo/demo.css";
 import "perfect-scrollbar/css/perfect-scrollbar.css";
 
@@ -21,7 +21,7 @@ const hist = createBrowserHistory();
 ReactDOM.render(
   <Router history={hist}>
     <Switch>
-    <Route path="/wing-admin-dashboard/admin" render={(props) => <AdminLayout {...props} />} />
+      <Route path="/wing-admin-dashboard/admin" render={(props) => <AdminLayout {...props} />} />
       <Redirect to="/wing-admin-dashboard/admin/dashboard" />
     </Switch>
   </Router>,
